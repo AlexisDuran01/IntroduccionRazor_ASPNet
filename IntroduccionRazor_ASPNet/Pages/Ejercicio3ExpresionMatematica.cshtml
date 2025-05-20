@@ -1,0 +1,75 @@
+﻿@page
+@model IntroduccionRazor_ASPNet.Pages.Ejercicio3ExpresionMatematica
+
+<h3 class="text-center mb-4">Calculadora Binomio de Newton</h3>
+<form method="post" class="d-flex flex-column gap-2 w-50 m-auto">
+    
+    <label for="a">Valor de a:</label>
+    <input type="number" step="any" asp-for="A" required/>
+
+    <label for="b">Valor de b:</label>
+    <input type="number" step="any" asp-for="B" required/>
+
+    <label for="x">Valor de x:</label>
+    <input type="number" step="any" asp-for="X" required/>
+
+    <label for="y">Valor de y:</label>
+    <input type="number" step="any" asp-for="Y" required/>
+
+    <label for="n">Valor de n:</label>
+    <input type="number" step="1" asp-for="N" required/>
+
+    <input type="submit" value="Calcular" class="mt-3 btn btn-primary w-50 m-auto"/>
+</form>
+
+
+
+@if (Model.MostrarResultado)
+{
+    
+    <div class="text-center mt-4 w-50 mx-auto">
+        <h4><strong>Resultado</strong></h4>
+        <div class="row">
+            <div class="col-6">
+                <h4><strong>Formula:</strong></h4>
+                <p>(@Model.A*@Model.X + @Model.B*@Model.Y)ˆ(@Model.N)=@Model.Resultado1</p>
+            </div>
+            <div class="col-6 justify-content-center">
+                <h4 class="m-0 text-center"><strong>Iteraciones:</strong></h4>
+                <table class="table table-borderless text-center mx-auto w-25" >
+                    <thead>
+                    <tr>
+                        <th>k</th>
+                        <th>Resultado</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var item in Model.Iteraciones)
+                    {
+                        <tr>
+                            <td>@item.Key</td>
+                            <td>@item.Value</td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+                
+                <P class=" text-center">
+                    <strong>Sumatoria:</strong>
+                    @{
+                        foreach (var item in Model.Iteraciones)
+                        {
+                            <span>@item.Value</span>
+                            if (item.Key != Model.Iteraciones.Keys.Max())
+                            {
+                                <span> + </span>
+                            }
+                        }
+                    }
+                    = @Model.Resultado1
+                </P>                
+            </div>
+        </div>
+    </div>
+    
+}

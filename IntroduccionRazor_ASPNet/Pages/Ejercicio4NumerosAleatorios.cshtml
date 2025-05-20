@@ -1,0 +1,86 @@
+﻿@page
+@model IntroduccionRazor_ASPNet.Pages.Ejercicio4NumerosAleatorios
+
+<div>
+    <h4 class="text-center mb-4">Arreglo aleatorio</h4>
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <table class="table table-bordered text-center">
+                <tbody>
+                <tr>
+                    @for (int i = 0; i < Model.NumerosAleatorios.Length; i++)
+                    {
+                        <td>@Model.NumerosAleatorios[i]</td>
+                    }
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col-6">
+            <ul class="list-unstyled mb-0">
+                <li class="mb-2"><strong>Suma:</strong> @Model.Suma</li>
+                <li><strong>Promedio:</strong> @Model.Promedio</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="mt-3">
+    <h4 class="text-center mb-4">Arreglo ordenado</h4>
+    <div class="row justify-content-center">
+        <div class="col-12">
+            <table class="table table-bordered text-center">
+                <tbody>
+                <tr>
+                    @for (int i = 0; i < Model.NumerosOrdenados.Length; i++)
+                    {
+                        if (i == 9 || i == 10)
+                        {
+                            <td class="text-danger">@Model.NumerosOrdenados[i]</td>
+                        }
+                        else
+                        {
+                            <td>@Model.NumerosOrdenados[i]</td>
+                        }
+                    }
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="row mt-2 ">
+        <div class="col-6">
+            <ul class="list-unstyled mb-0">
+                @if (Model.Modas.Count > 0)
+                {
+                    <li class="mb-2"><strong>Moda(s):</strong>
+                        @for (int i = 0; i < Model.Modas.Count; i++)
+                        {
+                            
+                            if (i!=Model.Modas.Count-1)
+                            {
+                                <p class="d-inline">@Model.Modas[i],</p>
+
+                            }
+                            else
+                            {
+                                <p class="d-inline">@Model.Modas[i]</p>
+
+                            }
+                        }
+                    </li>
+                }
+                else
+                {
+                    <li class="mb-2"><strong>Moda(s):</strong> Sin moda</li>
+                }
+
+                <li><strong>Mediana:</strong> (@Model.limiteInferior + @Model.limiteSuperior )/2 = @Model.Mediana</li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IntroduccionRazor_ASPNet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IntroduccionRazor_ASPNet.l0ktcafq68.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\images\\imc_normal.png",
+      "PackagePath": "staticwebassets\\images\\imc_normal.png"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\images\\imc_obesidad1.png",
+      "PackagePath": "staticwebassets\\images\\imc_obesidad1.png"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\images\\imc_obesidad2.png",
+      "PackagePath": "staticwebassets\\images\\imc_obesidad2.png"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\images\\imc_obesidad3.png",
+      "PackagePath": "staticwebassets\\images\\imc_obesidad3.png"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\images\\imc_pesobajo.png",
+      "PackagePath": "staticwebassets\\images\\imc_pesobajo.png"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\images\\imc_sobrepeso.png",
+      "PackagePath": "staticwebassets\\images\\imc_sobrepeso.png"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Universidad\\9-Cuatrimestre\\Desarrollo Web Integral\\1-Parcial\\Ejercicios\\IntroduccionRazor_ASPNet\\IntroduccionRazor_ASPNet\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.IntroduccionRazor_ASPNet.props",
+      "PackagePath": "build\\IntroduccionRazor_ASPNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.IntroduccionRazor_ASPNet.props",
+      "PackagePath": "buildMultiTargeting\\IntroduccionRazor_ASPNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.IntroduccionRazor_ASPNet.props",
+      "PackagePath": "buildTransitive\\IntroduccionRazor_ASPNet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

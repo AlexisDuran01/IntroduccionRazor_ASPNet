@@ -1,0 +1,66 @@
+﻿@page
+@using System.Data
+@model IntroduccionRazor_ASPNet.Pages.SintaxisBasica
+
+<!-- Bloque simple-->
+@{
+    var calicaciones = 8;
+}
+
+<h3>Instrucciones Condicionales</h3>
+<p>Tu calificacion es de: @calicaciones</p>
+@if (calicaciones >=8)
+{
+    <p>Tu estado es aprobado</p>
+
+}
+else
+{
+    <p>Tu estado es reprobado</p>
+}
+
+<h3>Instrucciones Condicionales Else-If</h3>
+
+@{
+    var precio = 90;
+}
+<p>El precio actual del producto es: @precio</p>
+
+@if(precio>=30)
+{
+    <p>El precio es alto</p>
+
+}
+else if (precio>20 && precio<30)
+{
+    <p>El precio esta bien</p>
+}
+else
+{
+    <p>El precio es bajo</p>
+}
+
+<h3>Condicionales Multiples Switch-Case</h3>
+
+@{
+    var diaSemana = DateTime.Now.DayOfWeek;
+    var dia = diaSemana.ToString();
+    var mensaje = "";
+}
+@switch (dia)
+{
+    case "Monday":
+        mensaje = "Este el primer dia de la semana";
+        break;
+    case "Thursday":
+        mensaje = "Este el primer dia de la semana";  
+        break;
+    case "Friday":
+        mensaje = "Este el primer dia de la semana";  
+        break;
+    default:
+        mensaje = "Hoy es:" + dia;
+        break;
+}
+
+<p>@mensaje</p>

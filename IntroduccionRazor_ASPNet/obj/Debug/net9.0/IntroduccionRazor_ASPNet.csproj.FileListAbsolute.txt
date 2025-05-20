@@ -1,0 +1,194 @@
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\appsettings.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.staticwebassets.runtime.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.staticwebassets.endpoints.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.exe
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.deps.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.runtimeconfig.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.dll
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.pdb
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.AssemblyInfoInputs.cache
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.AssemblyInfo.cs
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.csproj.CoreCompileInputs.cache
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.RazorAssemblyInfo.cache
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.RazorAssemblyInfo.cs
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\bundle\IntroduccionRazor_ASPNet.styles.css
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\projectbundle\IntroduccionRazor_ASPNet.bundle.scp.css
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\thpmz3kaxo-b9sayid5wm.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\p8ulu5sozx-61n19gt1b8.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\f3zzunwlx6-xtxxf3hu2r.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\0bhvv2ykru-t1cqhe9u97.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ai7v7q2nqx-c2jlpeoesf.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ufqsej0jpd-sejl45xvog.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\spbrslgx9s-aexeepp0ev.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\gbqtkv45k5-xvp3kq03qx.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\f80pntxlft-ausgxo2sd3.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\io6r2opr8l-22vffe00uq.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\3d435ng3p4-cosvhxvwiu.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\s8se4ftsd0-qesaa3a1fm.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\vxd0a3vdzo-fvhpjtyr6v.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\hxf8hk5ahn-tmc1g35s3z.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\dxzb4rsh4m-fsbi9cje9m.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\a69nac6mnp-rxsg74s51o.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\qhjyj6p3ff-ee0r1s7dh0.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4lzt0go8zx-q9ht133ko3.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\pq11nnhm83-jd9uben2k1.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\eg7mipmkma-gye83jo8yx.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\cgvfr3i0qu-r4e9w2rdcm.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\xdmdeoauyx-wl58j5mj3v.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fau20yg856-c2oey78nd0.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\8bk50zeg9w-d4r6k3f320.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\9rhq3fxgf3-j5mq2jizvt.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\gg21ghcl1a-keugtjm085.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fhepagenvz-nvvlpmu67g.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bvbyshbigl-zub09dkrxp.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\oe0trt5kd8-pj5nd1wqec.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\3n0wz3gmwz-43atpzeawx.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\aq1tkx2w0m-v0zj4ognzu.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\cn8dddjwox-ynyaa8k90p.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\5c5wc20vli-hrwsygsryq.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\jwqdwt2uuz-c63t5i9ira.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\mgtr731rih-ft3s53vfgj.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kmt07yy4aq-4094rpi4f9.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kq0e44lun2-6pdc2jztkx.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4kxi32xmo4-hd3gran6i8.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fructr9b4q-iovd86k7lj.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bzwwxd8sd6-ltid2c489k.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\c1tte09kk7-kbrnm935zg.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\pexpjdyt70-8vyfqsqgz1.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1p4k1x2qdc-y7v9cxd14o.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\h1z0x083e9-u9q1upor1n.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ecm8o6n329-h1s4sie4z3.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ewu3xpckx2-4d85u1mtcx.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\v8ocyp0hnc-0j3bgjxly4.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\2kkky0zxiy-03hjc8e09r.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kmyxcv1p5s-48y08845bh.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1koc4sqasp-356vix0kms.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4o09ermb8b-83jwlth58m.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1vxanjevpy-mrlpezrjn3.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bjs1j5n6es-worgj0nhwm.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\k7h955pd83-gk0pw8i4co.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\z45uchb35z-x0q3zqp4vz.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\vzcavsgg4v-d6nrnj6jjx.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\n9zp4azqpl-m9qm4tazc0.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1qwjitkgpt-ttgo8qnofa.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bk6in8w818-jjsuc0puko.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1wuszmmj8o-9vr69e8ynj.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ph07i5l3td-87fc7y1x7t.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\thm97mg1qq-mlv21k5csn.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\55qy6ekran-l0ktcafq68.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\t8hcou7f2c-l0ktcafq68.gz
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.build.IntroduccionRazor_ASPNet.props
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IntroduccionRazor_ASPNet.props
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IntroduccionRazor_ASPNet.props
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.dll
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\refint\IntroduccionRazor_ASPNet.dll
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.pdb
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.genruntimeconfig.cache
+C:\Users\duran\Downloads\IDGS904\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\ref\IntroduccionRazor_ASPNet.dll
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\appsettings.Development.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\appsettings.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.staticwebassets.endpoints.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.staticwebassets.runtime.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.exe
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.deps.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.runtimeconfig.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.dll
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\bin\Debug\net9.0\IntroduccionRazor_ASPNet.pdb
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.AssemblyInfoInputs.cache
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.AssemblyInfo.cs
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.csproj.CoreCompileInputs.cache
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.RazorAssemblyInfo.cache
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.RazorAssemblyInfo.cs
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\bundle\IntroduccionRazor_ASPNet.styles.css
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\scopedcss\projectbundle\IntroduccionRazor_ASPNet.bundle.scp.css
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\p8ulu5sozx-61n19gt1b8.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\f3zzunwlx6-xtxxf3hu2r.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\0bhvv2ykru-t1cqhe9u97.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ai7v7q2nqx-c2jlpeoesf.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ufqsej0jpd-sejl45xvog.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\spbrslgx9s-aexeepp0ev.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\gbqtkv45k5-xvp3kq03qx.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\f80pntxlft-ausgxo2sd3.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\io6r2opr8l-22vffe00uq.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\3d435ng3p4-cosvhxvwiu.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\s8se4ftsd0-qesaa3a1fm.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\vxd0a3vdzo-fvhpjtyr6v.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\hxf8hk5ahn-tmc1g35s3z.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\dxzb4rsh4m-fsbi9cje9m.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\a69nac6mnp-rxsg74s51o.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\qhjyj6p3ff-ee0r1s7dh0.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4lzt0go8zx-q9ht133ko3.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\pq11nnhm83-jd9uben2k1.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\eg7mipmkma-gye83jo8yx.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\cgvfr3i0qu-r4e9w2rdcm.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\xdmdeoauyx-wl58j5mj3v.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fau20yg856-c2oey78nd0.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\8bk50zeg9w-d4r6k3f320.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\9rhq3fxgf3-j5mq2jizvt.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\gg21ghcl1a-keugtjm085.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fhepagenvz-nvvlpmu67g.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bvbyshbigl-zub09dkrxp.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\oe0trt5kd8-pj5nd1wqec.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\3n0wz3gmwz-43atpzeawx.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\aq1tkx2w0m-v0zj4ognzu.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\cn8dddjwox-ynyaa8k90p.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\5c5wc20vli-hrwsygsryq.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\jwqdwt2uuz-c63t5i9ira.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\mgtr731rih-ft3s53vfgj.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kmt07yy4aq-4094rpi4f9.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kq0e44lun2-6pdc2jztkx.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4kxi32xmo4-hd3gran6i8.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\fructr9b4q-iovd86k7lj.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bzwwxd8sd6-ltid2c489k.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\c1tte09kk7-kbrnm935zg.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\pexpjdyt70-8vyfqsqgz1.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1p4k1x2qdc-y7v9cxd14o.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\h1z0x083e9-u9q1upor1n.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ecm8o6n329-h1s4sie4z3.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ewu3xpckx2-4d85u1mtcx.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\v8ocyp0hnc-0j3bgjxly4.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\2kkky0zxiy-03hjc8e09r.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\kmyxcv1p5s-48y08845bh.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1koc4sqasp-356vix0kms.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\4o09ermb8b-83jwlth58m.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1vxanjevpy-mrlpezrjn3.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bjs1j5n6es-worgj0nhwm.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\k7h955pd83-gk0pw8i4co.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\z45uchb35z-x0q3zqp4vz.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\vzcavsgg4v-d6nrnj6jjx.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\n9zp4azqpl-m9qm4tazc0.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1qwjitkgpt-ttgo8qnofa.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\bk6in8w818-jjsuc0puko.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\1wuszmmj8o-9vr69e8ynj.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\ph07i5l3td-87fc7y1x7t.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\thm97mg1qq-mlv21k5csn.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\55qy6ekran-l0ktcafq68.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\t8hcou7f2c-l0ktcafq68.gz
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.build.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.development.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.IntroduccionRazor_ASPNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.build.IntroduccionRazor_ASPNet.props
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IntroduccionRazor_ASPNet.props
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IntroduccionRazor_ASPNet.props
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.dll
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\refint\IntroduccionRazor_ASPNet.dll
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.pdb
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\IntroduccionRazor_ASPNet.genruntimeconfig.cache
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\ref\IntroduccionRazor_ASPNet.dll
+D:\Universidad\9-Cuatrimestre\Desarrollo Web Integral\1-Parcial\Ejercicios\IntroduccionRazor_ASPNet\IntroduccionRazor_ASPNet\obj\Debug\net9.0\compressed\thpmz3kaxo-ti0o9w1oqa.gz

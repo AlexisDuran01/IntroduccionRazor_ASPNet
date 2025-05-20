@@ -1,0 +1,14 @@
+﻿<!-- 
+Página maestra (layout.cshtml) o plantilla base que define el diseño común para todas las páginas de la aplicación. 
+Se encuentra en la carpeta 'Shared' y su nombre comienza con guion bajo (_) para indicar que no puede ser accedida directamente desde la URL.
+
+La estructura HTML básica, como <html>, <head>, y <body>, se define aquí. 
+La etiqueta @RenderBody() actúa como un marcador de posición donde se inyectará el contenido específico de cada página hija.
+
+Todas las páginas que utilizan esta plantilla comparten el mismo diseño general, 
+y solo cambian el contenido renderizado dentro de @RenderBody().
+-->
+
+
+//El archivo _viewStartcshtml indica qué layout debe usar cada página Razor por defecto
+//Razor buscará automáticamente ese layout en Pages/Shared/_Layout.cshtml

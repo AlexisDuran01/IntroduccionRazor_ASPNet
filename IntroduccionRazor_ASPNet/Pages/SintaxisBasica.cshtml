@@ -1,0 +1,21 @@
+﻿@page
+@using System.Data
+@model IntroduccionRazor_ASPNet.Pages.SintaxisBasica
+
+<!-- Bloque simple-->
+@{
+    var nombre = "Alexis";
+}
+
+<!-- Expresion en linea-->
+<p>El valor de la variable nombre es :@nombre </p>
+
+<!-- Bloque con multiples sentencias-->
+@{
+    var bienvenida = "Bienvenido a nuestro sitio";
+    var diaSemana = DateTime.Now.DayOfWeek;
+    var mensajeBienvenida = bienvenida + "Aqui en Leon es " + diaSemana;
+}
+
+<p>El mensaje de Bienvendia es: @mensajeBienvenida</p>
+
